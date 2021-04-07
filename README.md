@@ -6,7 +6,7 @@ Transform this :
 ```
 bla.BLA.bla...s01e01.amazing-file.MKV
 LOVEchocolateS01e02readME.avi
-welcome.s01E02.super.team.MP4
+welcome.s01E03.super.team.MP4
 ```
 to
 ```
